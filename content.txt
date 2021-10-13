@@ -1,0 +1,2 @@
+
+"  Welcome to the new way of studying book worm! Here you can set the option for the app to promt you to answer a question every time you use it. You must answer the question in order to use the app. Enter "OK" to continue."
